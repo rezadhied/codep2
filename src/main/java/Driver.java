@@ -10,7 +10,7 @@ public class Driver {
 		
 		System.out.println("12x15 Rectangle Area:" + shape.rectangleArea(12,15));
 		
-		System.out.println("7 Radius Cirlce Area:" + shape.circleArea(7));
+		System.out.println("8 Radius Circle Area:" + shape.circleArea(8));
 		
 	}
 
